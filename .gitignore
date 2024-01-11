@@ -32,7 +32,7 @@ client/public/main.js
 client/public/main.js.map
 client/public/main.js.LICENSE.txt
 
-# Dependency directorys
+# Dependency directories
 # Deployed apps should consider commenting these lines out:
 # see https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
 node_modules/
@@ -74,9 +74,6 @@ config.local.ts
 **/storageState.json
 junit.xml
 
-# docker override file
-docker-compose.override.yaml
-docker-compose.override.yml
 
 # meilisearch
 meilisearch
@@ -88,3 +85,4 @@ auth.json
 /images
 
 !client/src/components/Nav/SettingsTabs/Data/
+
